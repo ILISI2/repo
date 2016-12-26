@@ -5,6 +5,7 @@
 point::point(int xx, int yy):x(xx),y(yy)
 {
 	cout << "bonjour" << endl;
+	cout << "ilisi2" << endl;
 
 }
 
